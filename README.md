@@ -1,4 +1,4 @@
-### Hi there 👋
+Please see my profile at https://gitlab.com/bettse
 
 <!--
 **bettse/bettse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
