@@ -10,6 +10,6 @@ Exuberant, passionate, pragmatic engineer
 | [Weebo](https://github.com/bettse/weebo) | C | ![GitHub stars](https://img.shields.io/github/stars/bettse/weebo?style=social)  | Flipper Zero app: NTAG215 writer | [https://lab.flipper.net/apps/weebo](https://lab.flipper.net/apps/weebo) |
 | [Seos Compatible](https://github.com/bettse/seos_compatible) | C | ![GitHub stars](https://img.shields.io/github/stars/bettse/seos_compatible?style=social)  |  Flipper Zero app: HID Seos compatible reader/emulator | [https://lab.flipper.net/apps/seos](https://lab.flipper.net/apps/seos) |
 | [CTManager](https://gitlab.com/bettse/ctmanager) | Swift | (closed source) |  iOS app for the Chameleon Tiny Pro | [https://ctmanager.ericbetts.dev/](https://ctmanager.ericbetts.dev/) |
-| [WNE Writer](https://gitlab.com/bettse/wne_writer) | Node | ![GitLab stars](https://img.shields.io/gitlab/stars/bettse/wne_writer?style=social) |  Wink NFC E-paper writer | |
+| [WNE Writer](https://gitlab.com/bettse/wne_writer) | Node | ![GitLab stars](https://img.shields.io/gitlab/stars/bettse/wne_writer?style=social) |  Waveshare NFC E-paper writer | |
 | [NTAG424 Personalization](https://gitlab.com/bettse/ntag424_personalization) | Node | ![GitLab stars](https://img.shields.io/gitlab/stars/bettse/ntag424_personalization?style=social) | Script for setting URL and key to NTAG424 | [https://accessgranted.ericbetts.dev/](https://accessgranted.ericbetts.dev/) |
 
